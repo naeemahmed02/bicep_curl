@@ -1,0 +1,8 @@
+streamlit==1.41.1
+opencv-python==4.8.0.76
+numpy==2.2.2
+pandas==2.2.3
+requests==2.32.3
+pillow==11.1.0
+pydeck==0.9.1
+tenacity==9.0.0
